@@ -48,12 +48,12 @@ Issues e Projects 📝: Organize tarefas, bugs e novas funcionalidades diretamen
 
 - ## 🔒 Identidade, Acesso e Segurança no Azure
 🔑 Identidade (Identity)
-Azure Active Directory (Azure AD): O serviço central de gerenciamento de identidade no Azure! Ele conecta seus usuários com tudo o que precisam, seja aplicativos locais ou na nuvem. Pense nele como o guardião das suas credenciais, garantindo que cada pessoa tenha uma identidade digital segura e consistente em todos os serviços.
-Identidades Gerenciadas (Managed Identities): Esse recurso automatiza o processo de autenticação entre o Azure e os serviços conectados, eliminando a necessidade de armazenar credenciais manualmente.
+Azure Active Directory (Azure AD): O serviço central de gerenciamento de identidade no Azure! Ele conecta seus usuários com tudo o que precisam, seja aplicativos locais ou na nuvem. Pense nele como o guardião das suas credenciais, garantindo que cada pessoa tenha uma identidade digital segura e consistente em todos os serviços.<br>
+Identidades Gerenciadas (Managed Identities): Esse recurso automatiza o processo de autenticação entre o Azure e os serviços conectados, eliminando a necessidade de armazenar credenciais manualmente.<br>
 🔐 Acesso (Access)
 Controle de Acesso Baseado em Funções (RBAC): Aqui você controla quem pode fazer o quê no Azure. Com RBAC, você atribui permissões específicas a cada usuário ou grupo com base em suas funções. Resultado? Menos risco e mais controle!
-Políticas de Acesso Condicional (Conditional Access): Vá além das senhas! Com base em condições específicas, como localização, tipo de dispositivo ou nível de risco, você pode definir regras para garantir que só quem realmente deve acessar, consegue. Proteção em tempo real!
+Políticas de Acesso Condicional (Conditional Access): Vá além das senhas! Com base em condições específicas, como localização, tipo de dispositivo ou nível de risco, você pode definir regras para garantir que só quem realmente deve acessar, consegue. Proteção em tempo real!<br>
 🛡️ Segurança (Security)
 Autenticação Multifator (MFA): Segurança extra com a autenticação multifator! Mesmo que alguém descubra sua senha, o invasor precisa passar por um segundo nível de autenticação (código SMS, app autenticador, etc.). Camada dupla de proteção!
-Segurança da Rede (Network Security): O Azure oferece firewalls e grupos de segurança para manter seus dados protegidos de acessos não autorizados. Além disso, com o Azure Security Center, você monitora vulnerabilidades e recebe recomendações para fortalecer suas defesas.
+Segurança da Rede (Network Security): O Azure oferece firewalls e grupos de segurança para manter seus dados protegidos de acessos não autorizados. Além disso, com o Azure Security Center, você monitora vulnerabilidades e recebe recomendações para fortalecer suas defesas.<br>
 🔎 Em resumo: No Azure, identidade é a chave 🗝️, acesso é a porta 🚪, e segurança é o cofre 🔐. Com essas ferramentas, você garante que somente as pessoas certas, nos dispositivos certos e nas condições certas, tenham acesso aos seus recursos!
