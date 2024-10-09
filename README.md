@@ -54,6 +54,52 @@ Identidades Gerenciadas (Managed Identities): Esse recurso automatiza o processo
 Controle de Acesso Baseado em Funções (RBAC): Aqui você controla quem pode fazer o quê no Azure. Com RBAC, você atribui permissões específicas a cada usuário ou grupo com base em suas funções. Resultado? Menos risco e mais controle!
 Políticas de Acesso Condicional (Conditional Access): Vá além das senhas! Com base em condições específicas, como localização, tipo de dispositivo ou nível de risco, você pode definir regras para garantir que só quem realmente deve acessar, consegue. Proteção em tempo real!<br>
 🛡️ Segurança (Security)
+
+# 🌐 Gerenciamento de Custos no Azure 🚀
+
+O **Gerenciamento de Custos na Azure** oferece uma série de funcionalidades para garantir que você tenha total controle sobre os gastos da sua empresa na nuvem. A seguir, vamos explorar as principais funções que ajudam a otimizar seu investimento no Azure:
+
+## 1. 🔍 **Monitoramento de Custos**
+O Azure permite que você acompanhe seus gastos em tempo real, visualizando como os recursos estão sendo consumidos. Isso ajuda a evitar surpresas no final do mês e permite ajustes rápidos. Você pode:
+
+- Verificar o uso por assinatura, recurso ou grupo de recursos.
+- Comparar custos em diferentes períodos.
+
+## 2. 💡 **Orçamento e Alertas**
+Crie orçamentos personalizados para manter seus gastos sob controle. Com o Azure, você pode:
+
+- Definir limites de gastos e ser notificado quando estiver se aproximando deles.
+- Receber alertas via email quando o orçamento atingir um percentual específico (ex: 80%, 90%).
+
+## 3. 📊 **Análise de Custo-eficiência**
+O **Azure Cost Management** fornece insights detalhados para ajudar a identificar áreas onde você pode economizar. Com isso, você pode:
+
+- Detectar recursos subutilizados e otimizá-los.
+- Comparar diferentes planos de preços para escolher a melhor solução.
+
+## 4. 📅 **Relatórios Personalizados**
+Você pode criar relatórios personalizados para analisar seus gastos de maneira mais detalhada. Isso ajuda a:
+
+- Ver como diferentes equipes ou projetos estão consumindo recursos.
+- Acompanhar o progresso de seus esforços de otimização de custos.
+
+## 5. 🛠️ **Ferramentas de Otimização**
+O Azure também oferece recomendações automatizadas para melhorar a eficiência dos seus recursos, como:
+
+- Redimensionar máquinas virtuais.
+- Ajustar configurações de armazenamento.
+- Utilizar reservas para obter descontos em compromissos de longo prazo.
+
+## 6. 🛡️ **Segurança no Controle de Custos**
+A gestão de custos também está ligada à segurança. Com o Azure, você pode:
+
+- Controlar quem tem acesso às informações de custos.
+- Garantir que apenas usuários autorizados façam alterações em orçamentos e relatórios.
+
+---
+
+Com essas ferramentas, o **Gerenciamento de Custos na Azure** ajuda sua organização a manter o controle total dos investimentos, otimizando o uso dos recursos e garantindo que os gastos estejam sempre alinhados com suas expectativas. 💼💰
+
 Autenticação Multifator (MFA): Segurança extra com a autenticação multifator! Mesmo que alguém descubra sua senha, o invasor precisa passar por um segundo nível de autenticação (código SMS, app autenticador, etc.). Camada dupla de proteção!
 Segurança da Rede (Network Security): O Azure oferece firewalls e grupos de segurança para manter seus dados protegidos de acessos não autorizados. Além disso, com o Azure Security Center, você monitora vulnerabilidades e recebe recomendações para fortalecer suas defesas.<br>
 🔎 Em resumo: No Azure, identidade é a chave 🗝️, acesso é a porta 🚪, e segurança é o cofre 🔐. Com essas ferramentas, você garante que somente as pessoas certas, nos dispositivos certos e nas condições certas, tenham acesso aos seus recursos!
